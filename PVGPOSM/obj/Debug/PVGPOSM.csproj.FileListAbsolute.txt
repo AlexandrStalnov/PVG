@@ -1,0 +1,16 @@
+D:\ProjectPVG\PVGPOSM\PVGPOSM\bin\Debug\PVGPOSM.exe.config
+D:\ProjectPVG\PVGPOSM\PVGPOSM\bin\Debug\PVGPOSM.exe
+D:\ProjectPVG\PVGPOSM\PVGPOSM\bin\Debug\PVGPOSM.pdb
+D:\ProjectPVG\PVGPOSM\PVGPOSM\obj\Debug\PVGPOSM.csprojAssemblyReference.cache
+D:\ProjectPVG\PVGPOSM\PVGPOSM\obj\Debug\PVGPOSM.Form1.resources
+D:\ProjectPVG\PVGPOSM\PVGPOSM\obj\Debug\PVGPOSM.Form2.resources
+D:\ProjectPVG\PVGPOSM\PVGPOSM\obj\Debug\PVGPOSM.Form4.resources
+D:\ProjectPVG\PVGPOSM\PVGPOSM\obj\Debug\PVGPOSM.Properties.Resources.resources
+D:\ProjectPVG\PVGPOSM\PVGPOSM\obj\Debug\PVGPOSM.csproj.GenerateResource.cache
+D:\ProjectPVG\PVGPOSM\PVGPOSM\obj\Debug\PVGPOSM.csproj.CoreCompileInputs.cache
+D:\ProjectPVG\PVGPOSM\PVGPOSM\obj\Debug\PVGPOSM.exe
+D:\ProjectPVG\PVGPOSM\PVGPOSM\obj\Debug\PVGPOSM.pdb
+D:\ProjectPVG\PVGPOSM\PVGPOSM\obj\Debug\PVGPOSM.Form3.resources
+D:\ProjectPVG\PVGPOSM\PVGPOSM\obj\Debug\PVGPOSM.Form5.resources
+D:\ProjectPVG\PVGPOSM\PVGPOSM\obj\Debug\PVGPOSM.FormMain.resources
+D:\ProjectPVG\PVGPOSM\PVGPOSM\obj\Debug\PVGPOSM.Form6.resources
